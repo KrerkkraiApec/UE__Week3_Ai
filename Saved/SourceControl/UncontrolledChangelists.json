@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Krerkkrai Chaithep/Documents/Unreal Projects/UE_Week3_Ai/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Krerkkrai Chaithep/Documents/Unreal Projects/UE_Week3_Ai/Content/ThirdPerson/Blueprints/AI_Character.uasset",
+				"C:/Users/Krerkkrai Chaithep/Documents/Unreal Projects/UE_Week3_Ai/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset",
+				"C:/Users/Krerkkrai Chaithep/Documents/Unreal Projects/UE_Week3_Ai/Content/StarterContent/Materials/M_Water_Lake.uasset",
+				"C:/Users/Krerkkrai Chaithep/Documents/Unreal Projects/UE_Week3_Ai/Content/StarterContent/Materials/M_Water_Ocean.uasset",
+				"C:/Users/Krerkkrai Chaithep/Documents/Unreal Projects/UE_Week3_Ai/Content/StarterContent/Materials/M_Wood_Walnut.uasset",
+				"C:/Users/Krerkkrai Chaithep/Documents/Unreal Projects/UE_Week3_Ai/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/AN/9KWF2NWFFSJQVML7X692FF.uasset",
+				"C:/Users/Krerkkrai Chaithep/Documents/Unreal Projects/UE_Week3_Ai/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Krerkkrai Chaithep/Documents/Unreal Projects/UE_Week3_Ai/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RN/QWE8QR3VAO3J2QTDE58Q7R.uasset",
+				"C:/Users/Krerkkrai Chaithep/Documents/Unreal Projects/UE_Week3_Ai/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/ZB/9NF40R54EGDGFGWQ6HB4BJ.uasset"
+			]
+		}
+	]
+}
